@@ -7,7 +7,17 @@ This repository serves as a personal learning log and a resource for others prep
 
 ## 📂 Repository Structure
 
--- yet to update
+/
+├── arrays/
+├── strings/
+├── linked-list/
+├── stack/
+├── queue/
+├── trees/
+├── graphs/
+├── recursion/
+├── sorting/
+└── ...
 
 ⭐️ Show Your Support
 If you find this helpful, consider giving it a ⭐️!
