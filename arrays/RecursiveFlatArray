@@ -2,7 +2,6 @@
 // Output: [1, 2, 3, 4, 5, 7]
 
 const arr = [1, [2, [3, 4]], 5, [7]];
-
 console.log(flatten(arr));
 
 function flatten(arr) {
